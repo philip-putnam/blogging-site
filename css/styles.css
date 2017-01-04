@@ -1,0 +1,13 @@
+.first {
+  color: red;
+}
+
+.second {
+  color: blue;
+}
+
+.about {
+  font-style: italic;
+  color: black;
+  font-size: 120%;
+}
